@@ -8,13 +8,13 @@ A 256-color colorscheme, by Andreas van Cranenburgh.
 <br>https://github.com/andreasvc/vim-256noir
 ![](256_noir.png)
 
-### OceanicNext / OceanicNextLight
+### OceanicNext, OceanicNextLight
 Inspired by [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme), by Mike Hartington.
 <br>https://github.com/mhartington/oceanic-next
 ![](OceanicNextLight.png)
 ![](OceanicNext.png)
 
-### PaperColor (Default Light / Default Dark)
+### PaperColor (default dark, default light)
 Inspired by [Material Design](https://material.io/), by Nikyle Nguyen.
 <br>https://github.com/NLKNguyen/papercolor-theme
 ![](PaperColor_l.png)
@@ -70,7 +70,7 @@ Colorscheme with a blue background, Original by Steven Vertigan.
 <br>https://github.com/vim/colorschemes
 ![](blue.png)
 
-### carbonized-dark / carbonized-light
+### carbonized-dark, carbonized-light
 Adapted from [base16-vim](https://github.com/chriskempson/base16-vim) by Chris Kempson.
 <br>-
 ![](carbonized-light.png)
@@ -105,6 +105,61 @@ A Vim colorscheme, Original by David Schweikert.
 A Vim colorscheme, Original by Hans Fugal.
 <br>https://github.com/vim/colorschemes
 ![](desert.png)
+
+### deus
+Caused by all of the bad Solarized/Gruvbox clones, by Avery Wagar.
+<br> https://github.com/ajmwagar/vim-deus
+![](deus.png)
+
+### dogrun
+A Vim colorscheme, by Tsuyoshi Wada. 
+<br>https://github.com/wadackel/vim-dogrun
+![](dogrun.png)
+
+### elflord
+A Vim colorscheme, Original by Ron Aaron.
+<br>https://github.com/vim/colorschemes
+![](elflord.png)
+
+### evening
+A Vim colorscheme, Original by Bram Moolenaar.
+<br>https://github.com/vim/colorschemes
+![](evening.png)
+
+### flattened_dark, flattened_light
+Solarized, by Romain Lafourcade.
+<br>https://github.com/romainl/flattened
+![](flattened_light.png)
+![](flattened_dark.png)
+
+### focuspoint
+Between Molokai and Zenburn, by Chase Colman.
+<br>https://github.com/chase/focuspoint-vim
+![](focuspoint.png)
+
+### fogbell, fogbell_light, fogbell_lite
+A Vim colorscheme, by Jared Gorski.
+<br>https://github.com/jaredgorski/fogbell.vim
+![](fogbell_light.png)
+![](fogbell_lite.png)
+![](fogbell.png)
+
+### github
+Based on github's syntax highlighting, Original by Anthony Carapetis.
+<br>https://github.com/endel/vim-github-colorscheme
+![](github.png)
+
+### gotham, gotham256
+A Vim colorscheme, by Andrea Leopardi.
+<br>https://github.com/whatyouhide/vim-gotham
+![](gotham.png)
+![](gotham256.png)
+
+### gruvbox (default dark, default light)
+Inspired by [badwolf](https://github.com/sjl/badwolf), [jellybeans](https://github.com/nanotech/jellybeans.vim) and [solarized](https://ethanschoonover.com/solarized/), by Pavel Pertsev.
+<br>https://github.com/morhetz/gruvbox
+![](gruvbox_l.png)
+![](gruvbox_d.png)
 
 
 *... to be continued ...*
