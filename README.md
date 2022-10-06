@@ -161,5 +161,23 @@ Inspired by [badwolf](https://github.com/sjl/badwolf), [jellybeans](https://gith
 ![](gruvbox_l.png)
 ![](gruvbox_d.png)
 
+### habamax
+Hubba hubba hubba, by Maxim Kim.
+<br>https://github.com/vim/colorschemes
+![](habamax.png)
+
+### happy_hacking
+Based on [Autumn](https://github.com/yorickpeterse/autumn.vim), by Yorick Peterse.
+<br>https://github.com/yorickpeterse/happy_hacking.vim
+![](happy_hacking.png)
+
+### hybrid (default light, default dark)
+Taken from [Tomorrow-Night](https://github.com/chriskempson/vim-tomorrow-theme) and [Codecademy's online editor](htps://www.codecademy.com/learn), by Andrew Wong.
+<br>https://github.com/w0ng/vim-hybrid
+![](hybrid_l.png)
+![](hybrid_d.png)
+
+
+
 
 *... to be continued ...*
