@@ -79,7 +79,7 @@ Adapted from [base16-vim](https://github.com/chriskempson/base16-vim) by Chris K
 ### challenger_deep
 A Vim colorscheme.
 <br>https://github.com/challenger-deep-theme/vim
-![]{challenger_deep.png)
+![](challenger_deep.png)
 
 ### darkblue
 For those who prefer dark background, Original by Bohdan Vlasyuk.
@@ -94,7 +94,7 @@ Based of [Hybrid](https://github.com/w0ng/vim-hybrid), by Brandon Siders.
 ### default
 This is the default color scheme, by Bram Moolenaar.
 <br>`/user/share/vim/`
-1[](default.png)
+![](default.png)
 
 ### delek
 A Vim colorscheme, Original by David Schweikert.
