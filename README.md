@@ -177,7 +177,39 @@ Taken from [Tomorrow-Night](https://github.com/chriskempson/vim-tomorrow-theme) 
 ![](hybrid_l.png)
 ![](hybrid_d.png)
 
+### hybrid_material, hybrid_reverse (default light, default dark)
+Almost similar to [hybrid](https://github.com/w0ng/vim-hybrid), some colors like [tomorrow-night](https://github.com/chriskempson/base16-vim), by Kristijan Husak.
+<br>https://github.com/kristijanhusak/vim-hybrid-material
+![](hybrid_material_l.png)
+![](hybrid_material_d.png)
+![](hybrid_reverse_l.png)
+![](hybrid_reverse_d.png)
 
+### iceberg (default light, default dark)
+A Vim colorscheme, by Hiroki Kokubun.
+<br>https://github.com/cocopon/iceberg.vim
+![](iceberg_l.png)
+![](iceberg_d.png)
+
+### industry
+A Vim colorscheme, Original by Shian Lee.
+<br>https://github.com/vim/colorschemes
+![](industry.png)
+
+### jellybeans
+Inspired by [ir_black](https://web.archive.org/web/20140211124943/http://toddwerth.com/2008/01/25/a-black-os-x-leopard-terminal-theme-that-is-actually-readable/) and [twiligh](http://www.vim.org/scripts/script.php?script_id=1677)t.
+<br>https://github.com/nanotech/jellybeans.vim
+![](jellybeans.png)
+
+### koehler
+A Vim colorscheme, by Ron Aaron.
+<br>https://www.github.com/vim/colorschemes
+![](koehler.png)
+
+### lightning
+Based on [Apprentice](https://github.com/romainl/Apprentice/), by Stefan Wimmer.
+<br>https://github.com/wimstefan/Lightning
+![](lightning.png)
 
 
 *... to be continued ...*
