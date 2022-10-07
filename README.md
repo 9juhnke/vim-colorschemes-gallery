@@ -172,7 +172,7 @@ Based on [Autumn](https://github.com/yorickpeterse/autumn.vim), by Yorick Peters
 ![](happy_hacking.png)
 
 ### hybrid (default light, default dark)
-Taken from [Tomorrow-Night](https://github.com/chriskempson/vim-tomorrow-theme) and [Codecademy's online editor](htps://www.codecademy.com/learn), by Andrew Wong.
+Taken from [Tomorrow-Night](https://github.com/chriskempson/vim-tomorrow-theme) and [Codecademy's online editor](https://www.codecademy.com/learn), by Andrew Wong.
 <br>https://github.com/w0ng/vim-hybrid
 ![](hybrid_l.png)
 ![](hybrid_d.png)
