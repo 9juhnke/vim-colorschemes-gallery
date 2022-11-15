@@ -211,5 +211,48 @@ Based on [Apprentice](https://github.com/romainl/Apprentice/), by Stefan Wimmer.
 <br>https://github.com/wimstefan/Lightning
 ![](lightning.png)
 
+### lucid
+A Vim colorscheme, doesn't work, by Chris Seelu.
+<br>https://github.com/cseelus/vim-colors-lucid
+![](lucid.png)
+
+### lucius (default dark, default light)
+A Vim colorscheme, by Jonathan Filip.
+<br>https://github.com/jonathanfilip/vim-lucius
+![](lucius_l.png)
+![](lucius_d.png)
+
+### lunaperche
+Perchè il sole a Milano? Portofino? Dimmi la luna perchè? By Maxim Kim.
+<br>https://www.github.com/vim/colorschemes
+![](lunaperche_l.png)
+![](lunaperche_d.png)
+
+### materialbox
+Inspired by [Gruvbox](https://github.com/morhetz/gruvbox) and [Material](https://github.com/cpaulik/emacs-material-theme), by Miguel Carmona.
+<br>https://github.com/mkarmona/materialbox
+![](materialbox_l.png)
+![](materialbox_d.png)
+
+### meta5
+Inspired by Tron, by Christopher McAdams.
+<br>https://github.com/christophermca/meta5
+![](meta5.png)
+
+### minimalist
+Inspired by [Material](https://github.com/equinusocio/material-theme), by Diki Ananta.
+<br>https://github.com/dikiaap/minimalist
+![](minimalist.png)
+
+### molokai
+Port of monokai by Wimer Hazenberg, by Tomas Restrepo.
+<br>https://github.com/tomasr/molokai
+![](molokai.png)
+
+### molokayo
+Based on molokai, by Felipe Morales.
+<br>https://github.com/fmoralesc/molokayo
+![](molokayo.png)
+
 
 *... to be continued ...*
