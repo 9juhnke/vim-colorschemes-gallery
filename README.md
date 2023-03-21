@@ -1,5 +1,8 @@
-# Vim Awesome
-A [Vim](https://github.com/vim/) [colorschemes](https://github.com/vim/colorschemes) gallery.
+# A Vim colorschemes gallery.
+
+[Vim](https://github.com/vim/) has [colorschemes](https://github.com/vim/colorschemes).
+
+`:` `colorschemes` <key>[space]</key> <key>[tab]</key>
 
 ## blue
 Colorscheme with a blue background.<br>
