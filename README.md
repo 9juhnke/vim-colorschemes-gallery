@@ -1,258 +1,104 @@
-# Vim Colorschemes Gallery
-A [Vim](https://github.com/vim/) standard[^1] colorschemes list. Saves you testing one by one.
+# Vim Awesome
+A [Vim](https://github.com/vim/) [colorschemes](https://github.com/vim/colorschemes) gallery.
 
-[^1]: I don't know if these are in every distribution standard colorschemes, but in [Fedora](https://getfedora.org). If you know more: Please drop a (friendly) [comment](https://github.com/9juhnke/Vim-Colorschemes-Gallery/issues).
+## blue
+Colorscheme with a blue background.<br>
+Author: Steven Vertigan<br>
+![blue](blue.png)
 
-### 256_noir
-A 256-color colorscheme, by Andreas van Cranenburgh.
-<br>https://github.com/andreasvc/vim-256noir
-![](256_noir.png)
+## darkblue
+For those who prefer dark background.<br>
+Author: Bohdan Vlasyuk<br>
+![darkblue](darkblue.png)
 
-### OceanicNext, OceanicNextLight
-Inspired by [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme), by Mike Hartington.
-<br>https://github.com/mhartington/oceanic-next
-![](OceanicNextLight.png)
-![](OceanicNext.png)
+## default
+This is the default color scheme.<br>
+Author: Bram Moolenaar<br>
+![default](default.png)
 
-### PaperColor (default dark, default light)
-Inspired by [Material Design](https://material.io/), by Nikyle Nguyen.
-<br>https://github.com/NLKNguyen/papercolor-theme
-![](PaperColor_l.png)
-![](PaperColor_d.png)
+## delek
+Light background colorscheme.<br>
+Author: David Schweikert<br>
+![delek](delek.png)
 
-### abstract
-Based on [Abstract](https://www.abstractapp.com), by Jonathan Simcoe.
-<br>https://github.com/jdsimcoe/abstract.vim
-![](abstract.png)
+## desert
+Light background colorscheme.<br>
+Author: Hans Fugal<br>
+![desert](desert.png)
 
-### afterglow
-Adaptation of [Afterglow](https://github.com/YabataDesign/afterglow-theme), by Danilo Augusto.
-<br>https://github.com/danilo-augusto/vim-afterglow
-![](afterglow.png)
+## elflord
+Author: Ron Aaron<br>
+![elflord](elflord.png)
 
-### alduin
-A Vim colorscheme, by Alessandro Yorba.
-<br>https://github.com/AlessandroYorba/Alduin
-![](alduin.png)
+## evening
+This color scheme uses a dark grey background.<br>
+Author: Bram Moolenaar<br>
+![evening](evening.png)
 
-### anderson
-Based on colors from Wes Anderson films, by Thomas Löhr.
-<br>https://github.com/tlhr/anderson.vim
-![](anderson.png)
+## habamax
+Hubba hubba hubba.<br>
+Author: Maxim Kim<br>
+![habamax](habamax.png)
 
-### angr
-A Vim colorscheme, by Zac Anger.
-<br>https://github.com/zacanger/angr.vim
-![](angr.png)
+## industry
+"industry" stands for 'industrial' color scheme.<br>
+Author: Shian Lee<br>
+![industry](industry.png)
 
-### apprentice
-Based on [Sorcerer](https://www.vim.org/scripts/script.php?script_id=3299), by Jeet Sukumaran.
-<br>https://github.com/romainl/Apprentice
-![](apprentice.png)
+## koehler
+Author: Ron Aaron<br>
+![koehler](koehler.png)
 
-### archery
-Inspired by Arch Linux color palette, by Baptiste Vannesson.
-<br>https://github.com/Badacadabra/vim-archery
-![](archery.png)
+## lunaperche
+Perchè il sole a Milano? Portofino? Dimmi la luna perchè?<br>White(perchè il sole)/Black(la luna perchè?) background colorscheme.<br>
+Author: Maxim Kim<br>
+![lunaperche](lunaperche-lt.png)
+![lunaperche](lunaperche.png)
 
-### atom
-Designed to be readable in light and dark environments, by Greg Sexton.
-<br>https://github.com/gregsexton/Atom
-![](atom.png)
+## morning
+Colorscheme with light grey background.<br>
+Author: Bram Moolenaar<br>
+![morning](morning.png)
 
-### ayu
-A Vim colorscheme, looking for maintainer.
-<br>https://github.com/ayu-theme/ayu-vim
-![](ayu.png)
+## murphy
+Green foreground black background.<br>
+Author: Ron Aaron<br>
+![murphy](murphy.png)
 
-### blue
-Colorscheme with a blue background, Original by Steven Vertigan.
-<br>https://github.com/vim/colorschemes
-![](blue.png)
+## pablo
+Author: Ron Aaron<br>
+![pablo](pablo.png)
 
-### carbonized-dark, carbonized-light
-Adapted from [base16-vim](https://github.com/chriskempson/base16-vim) by Chris Kempson.
-<br>-
-![](carbonized-light.png)
-![](carbonized-dark.png)
+## peachpuff
+This color scheme uses a peachpuff background (what you've expected when it's called peachpuff?).<br>
+Author: David Ne&#269;as (Yeti)<br>
+![peachpuff](peachpuff.png)
 
-### challenger_deep
-A Vim colorscheme.
-<br>https://github.com/challenger-deep-theme/vim
-![](challenger_deep.png)
+## quiet
+A mostly monochrome colorscheme, with a few niceties.<br>
+Author: Maxence Weynans<br>
+![quiet](quiet.png)
 
-### darkblue
-For those who prefer dark background, Original by Bohdan Vlasyuk.
-<br>https://github.com/vim/colorschemes
-![](darkblue.png)
+## ron
+Author: Ron Aaron<br>
+![ron](ron.png)
 
-### deep-space
-Based of [Hybrid](https://github.com/w0ng/vim-hybrid), by Brandon Siders.
-<br>https://github.com/tyrannicaltoucan/vim-deep-space
-![](deep-space.png)
+## shine
+Light colorscheme inspired by normal text editors.<br>
+Author: Yasuhiro Matsumoto<br>
+![shine](shine.png)
 
-### default
-This is the default color scheme, by Bram Moolenaar.
-<br>`/user/share/vim/`
-![](default.png)
+## slate
+Remake of slate.<br>
+Maintainer: Ralph Amissah<br>
+![slate](slate.png)
 
-### delek
-A Vim colorscheme, Original by David Schweikert.
-<br>https://github.com/vim/colorschemes
-![](delek.png)
+## torte
+Remake of torte (grey on black).<br>
+Maintainer: Thorsten Maerz<br>
+![torte](torte.png)
 
-### desert
-A Vim colorscheme, Original by Hans Fugal.
-<br>https://github.com/vim/colorschemes
-![](desert.png)
-
-### deus
-Caused by all of the bad Solarized/Gruvbox clones, by Avery Wagar.
-<br> https://github.com/ajmwagar/vim-deus
-![](deus.png)
-
-### dogrun
-A Vim colorscheme, by Tsuyoshi Wada. 
-<br>https://github.com/wadackel/vim-dogrun
-![](dogrun.png)
-
-### elflord
-A Vim colorscheme, Original by Ron Aaron.
-<br>https://github.com/vim/colorschemes
-![](elflord.png)
-
-### evening
-A Vim colorscheme, Original by Bram Moolenaar.
-<br>https://github.com/vim/colorschemes
-![](evening.png)
-
-### flattened_dark, flattened_light
-Solarized, by Romain Lafourcade.
-<br>https://github.com/romainl/flattened
-![](flattened_light.png)
-![](flattened_dark.png)
-
-### focuspoint
-Between Molokai and Zenburn, by Chase Colman.
-<br>https://github.com/chase/focuspoint-vim
-![](focuspoint.png)
-
-### fogbell, fogbell_light, fogbell_lite
-A Vim colorscheme, by Jared Gorski.
-<br>https://github.com/jaredgorski/fogbell.vim
-![](fogbell_light.png)
-![](fogbell_lite.png)
-![](fogbell.png)
-
-### github
-Based on github's syntax highlighting, Original by Anthony Carapetis.
-<br>https://github.com/endel/vim-github-colorscheme
-![](github.png)
-
-### gotham, gotham256
-A Vim colorscheme, by Andrea Leopardi.
-<br>https://github.com/whatyouhide/vim-gotham
-![](gotham.png)
-![](gotham256.png)
-
-### gruvbox (default dark, default light)
-Inspired by [badwolf](https://github.com/sjl/badwolf), [jellybeans](https://github.com/nanotech/jellybeans.vim) and [solarized](https://ethanschoonover.com/solarized/), by Pavel Pertsev.
-<br>https://github.com/morhetz/gruvbox
-![](gruvbox_l.png)
-![](gruvbox_d.png)
-
-### habamax
-Hubba hubba hubba, by Maxim Kim.
-<br>https://github.com/vim/colorschemes
-![](habamax.png)
-
-### happy_hacking
-Based on [Autumn](https://github.com/yorickpeterse/autumn.vim), by Yorick Peterse.
-<br>https://github.com/yorickpeterse/happy_hacking.vim
-![](happy_hacking.png)
-
-### hybrid (default light, default dark)
-Taken from [Tomorrow-Night](https://github.com/chriskempson/vim-tomorrow-theme) and [Codecademy's online editor](https://www.codecademy.com/learn), by Andrew Wong.
-<br>https://github.com/w0ng/vim-hybrid
-![](hybrid_l.png)
-![](hybrid_d.png)
-
-### hybrid_material, hybrid_reverse (default light, default dark)
-Almost similar to [hybrid](https://github.com/w0ng/vim-hybrid), some colors like [tomorrow-night](https://github.com/chriskempson/base16-vim), by Kristijan Husak.
-<br>https://github.com/kristijanhusak/vim-hybrid-material
-![](hybrid_material_l.png)
-![](hybrid_material_d.png)
-![](hybrid_reverse_l.png)
-![](hybrid_reverse_d.png)
-
-### iceberg (default light, default dark)
-A Vim colorscheme, by Hiroki Kokubun.
-<br>https://github.com/cocopon/iceberg.vim
-![](iceberg_l.png)
-![](iceberg_d.png)
-
-### industry
-A Vim colorscheme, Original by Shian Lee.
-<br>https://github.com/vim/colorschemes
-![](industry.png)
-
-### jellybeans
-Inspired by [ir_black](https://web.archive.org/web/20140211124943/http://toddwerth.com/2008/01/25/a-black-os-x-leopard-terminal-theme-that-is-actually-readable/) and [twiligh](http://www.vim.org/scripts/script.php?script_id=1677)t.
-<br>https://github.com/nanotech/jellybeans.vim
-![](jellybeans.png)
-
-### koehler
-A Vim colorscheme, by Ron Aaron.
-<br>https://www.github.com/vim/colorschemes
-![](koehler.png)
-
-### lightning
-Based on [Apprentice](https://github.com/romainl/Apprentice/), by Stefan Wimmer.
-<br>https://github.com/wimstefan/Lightning
-![](lightning.png)
-
-### lucid
-A Vim colorscheme, doesn't work, by Chris Seelu.
-<br>https://github.com/cseelus/vim-colors-lucid
-![](lucid.png)
-
-### lucius (default dark, default light)
-A Vim colorscheme, by Jonathan Filip.
-<br>https://github.com/jonathanfilip/vim-lucius
-![](lucius_l.png)
-![](lucius_d.png)
-
-### lunaperche
-Perchè il sole a Milano? Portofino? Dimmi la luna perchè? By Maxim Kim.
-<br>https://www.github.com/vim/colorschemes
-![](lunaperche_l.png)
-![](lunaperche_d.png)
-
-### materialbox
-Inspired by [Gruvbox](https://github.com/morhetz/gruvbox) and [Material](https://github.com/cpaulik/emacs-material-theme), by Miguel Carmona.
-<br>https://github.com/mkarmona/materialbox
-![](materialbox_l.png)
-![](materialbox_d.png)
-
-### meta5
-Inspired by Tron, by Christopher McAdams.
-<br>https://github.com/christophermca/meta5
-![](meta5.png)
-
-### minimalist
-Inspired by [Material](https://github.com/equinusocio/material-theme), by Diki Ananta.
-<br>https://github.com/dikiaap/minimalist
-![](minimalist.png)
-
-### molokai
-Port of monokai by Wimer Hazenberg, by Tomas Restrepo.
-<br>https://github.com/tomasr/molokai
-![](molokai.png)
-
-### molokayo
-Based on molokai, by Felipe Morales.
-<br>https://github.com/fmoralesc/molokayo
-![](molokayo.png)
-
-
-*... to be continued ...*
+## zellner
+Light background colorscheme.<br>
+Author: Ron Aaron<br>
+![zellner](zellner.png)
