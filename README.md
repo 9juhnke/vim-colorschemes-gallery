@@ -1,4 +1,4 @@
-# A Vim colorschemes gallery.
+# A Vim colorschemes gallery
 
 [Vim](https://github.com/vim/) has [colorschemes](https://github.com/vim/colorschemes).
 
