@@ -1,8 +1,8 @@
 # A Vim colorschemes gallery
 
-[Vim](https://github.com/vim/) has [colorschemes](https://github.com/vim/colorschemes).
+In Vim do [esc] `:` `colorschemes` <key>[space]</key> <key>[tab]</key>
 
-`:` `colorschemes` <key>[space]</key> <key>[tab]</key>
+The Descriptions on the screenshots are mostly from the colorschemes itself.
 
 ## blue
 Colorscheme with a blue background.<br>
